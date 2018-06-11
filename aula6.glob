@@ -1,0 +1,80 @@
+DIGEST ecd9cad275a52918ad8a83086f5dbc78
+Faula6
+R15:19 aula3 <> <> lib
+R21:25 aula4 <> <> lib
+R27:31 aula5 <> <> lib
+ind 46:52 <> natprod
+constr 66:69 <> pair
+R87:93 aula6 <> natprod ind
+R80:82 Coq.Init.Datatypes <> nat ind
+R73:75 Coq.Init.Datatypes <> nat ind
+R104:107 aula6 <> pair constr
+def 127:129 <> fst
+R136:142 aula6 <> natprod ind
+R147:149 Coq.Init.Datatypes <> nat ind
+R162:162 aula6 <> p var
+R173:176 aula6 <> pair constr
+def 206:208 <> snd
+R215:221 aula6 <> natprod ind
+R226:228 Coq.Init.Datatypes <> nat ind
+R241:241 aula6 <> p var
+R252:255 aula6 <> pair constr
+R283:285 aula6 <> fst def
+R288:291 aula6 <> pair constr
+R339:342 aula6 <> pair constr
+not 323 <> ::'('_x_','_x_')'
+def 362:370 <> swap_pair
+R377:383 aula6 <> natprod ind
+R388:394 aula6 <> natprod ind
+R407:407 aula6 <> p var
+R418:418 aula6 <> ::'('_x_','_x_')' not
+R420:420 aula6 <> ::'('_x_','_x_')' not
+R422:422 aula6 <> ::'('_x_','_x_')' not
+R427:427 aula6 <> ::'('_x_','_x_')' not
+R429:429 aula6 <> ::'('_x_','_x_')' not
+R431:431 aula6 <> ::'('_x_','_x_')' not
+prf 449:467 <> surjective_pairing'
+R485:487 Coq.Init.Datatypes <> nat ind
+R498:500 Coq.Init.Logic <> :type_scope:x_'='_x not
+R493:493 aula6 <> ::'('_x_','_x_')' not
+R495:495 aula6 <> ::'('_x_','_x_')' not
+R497:497 aula6 <> ::'('_x_','_x_')' not
+R494:494 aula6 <> n var
+R496:496 aula6 <> m var
+R501:501 aula6 <> ::'('_x_','_x_')' not
+R511:512 aula6 <> ::'('_x_','_x_')' not
+R522:522 aula6 <> ::'('_x_','_x_')' not
+R502:504 aula6 <> fst def
+R506:506 aula6 <> ::'('_x_','_x_')' not
+R508:508 aula6 <> ::'('_x_','_x_')' not
+R510:510 aula6 <> ::'('_x_','_x_')' not
+R507:507 aula6 <> n var
+R509:509 aula6 <> m var
+R513:515 aula6 <> snd def
+R517:517 aula6 <> ::'('_x_','_x_')' not
+R519:519 aula6 <> ::'('_x_','_x_')' not
+R521:521 aula6 <> ::'('_x_','_x_')' not
+R518:518 aula6 <> n var
+R520:520 aula6 <> m var
+prf 562:585 <> surjective_pairing_stuck
+R601:607 aula6 <> natprod ind
+R614:616 Coq.Init.Logic <> :type_scope:x_'='_x not
+R613:613 aula6 <> p var
+R617:617 aula6 <> ::'('_x_','_x_')' not
+R623:624 aula6 <> ::'('_x_','_x_')' not
+R630:630 aula6 <> ::'('_x_','_x_')' not
+R618:620 aula6 <> fst def
+R622:622 aula6 <> p var
+R625:627 aula6 <> snd def
+R629:629 aula6 <> p var
+prf 696:713 <> surjective_pairing
+R729:735 aula6 <> natprod ind
+R742:744 Coq.Init.Logic <> :type_scope:x_'='_x not
+R741:741 aula6 <> p var
+R745:745 aula6 <> ::'('_x_','_x_')' not
+R751:752 aula6 <> ::'('_x_','_x_')' not
+R758:758 aula6 <> ::'('_x_','_x_')' not
+R746:748 aula6 <> fst def
+R750:750 aula6 <> p var
+R753:755 aula6 <> snd def
+R757:757 aula6 <> p var

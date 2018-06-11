@@ -1,0 +1,77 @@
+DIGEST 175a2f6a8b7d4b29f55ff2ddb22f6cc0
+Fdoit3
+R15:19 aula3 <> <> lib
+R21:25 aula4 <> <> lib
+R27:31 aula5 <> <> lib
+prf 206:213 <> mult_0_r
+R226:228 Coq.Init.Datatypes <> nat ind
+R238:240 Coq.Init.Logic <> :type_scope:x_'='_x not
+R234:236 aula3 <> :nat_scope:x_'*'_x not
+R233:233 doit3 <> n var
+prf 331:339 <> plus_n_Sm
+R356:358 Coq.Init.Datatypes <> nat ind
+R372:374 Coq.Init.Logic <> :type_scope:x_'='_x not
+R363:363 Coq.Init.Datatypes <> S constr
+R367:369 aula3 <> :nat_scope:x_'+'_x not
+R366:366 doit3 <> n var
+R370:370 doit3 <> m var
+R376:379 aula3 <> :nat_scope:x_'+'_x not
+R383:383 aula3 <> :nat_scope:x_'+'_x not
+R375:375 doit3 <> n var
+R380:380 Coq.Init.Datatypes <> S constr
+R382:382 doit3 <> m var
+prf 492:500 <> plus_comm
+R517:519 Coq.Init.Datatypes <> nat ind
+R527:529 Coq.Init.Logic <> :type_scope:x_'='_x not
+R523:525 aula3 <> :nat_scope:x_'+'_x not
+R522:522 doit3 <> n var
+R526:526 doit3 <> m var
+R531:533 aula3 <> :nat_scope:x_'+'_x not
+R530:530 doit3 <> m var
+R534:534 doit3 <> n var
+R680:688 doit3 <> plus_n_Sm thm
+R680:688 doit3 <> plus_n_Sm thm
+prf 718:727 <> plus_assoc
+R746:748 Coq.Init.Datatypes <> nat ind
+R764:766 Coq.Init.Logic <> :type_scope:x_'='_x not
+R754:757 aula3 <> :nat_scope:x_'+'_x not
+R763:763 aula3 <> :nat_scope:x_'+'_x not
+R753:753 doit3 <> n var
+R759:761 aula3 <> :nat_scope:x_'+'_x not
+R758:758 doit3 <> m var
+R762:762 doit3 <> p var
+R767:767 aula3 <> :nat_scope:x_'+'_x not
+R773:776 aula3 <> :nat_scope:x_'+'_x not
+R769:771 aula3 <> :nat_scope:x_'+'_x not
+R768:768 doit3 <> n var
+R772:772 doit3 <> m var
+R777:777 doit3 <> p var
+def 888:893 <> double
+R898:900 Coq.Init.Datatypes <> nat ind
+R914:914 doit3 <> n var
+R925:925 Coq.Init.Datatypes <> O constr
+R930:930 Coq.Init.Datatypes <> O constr
+R936:936 Coq.Init.Datatypes <> S constr
+R944:944 Coq.Init.Datatypes <> S constr
+R947:947 Coq.Init.Datatypes <> S constr
+R950:955 doit3 <> double def
+prf 1040:1050 <> double_plus
+R1072:1074 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1064:1069 doit3 <> double def
+R1071:1071 doit3 <> n var
+R1076:1078 aula3 <> :nat_scope:x_'+'_x not
+R1075:1075 doit3 <> n var
+R1079:1079 doit3 <> n var
+R1167:1175 doit3 <> plus_n_Sm thm
+R1167:1175 doit3 <> plus_n_Sm thm
+prf 1610:1616 <> evenb_S
+R1631:1633 Coq.Init.Datatypes <> nat ind
+R1649:1651 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1638:1642 aula3 <> evenb def
+R1645:1645 Coq.Init.Datatypes <> S constr
+R1647:1647 doit3 <> n var
+R1652:1655 Coq.Init.Datatypes <> negb def
+R1658:1662 aula3 <> evenb def
+R1664:1664 doit3 <> n var
+R1752:1766 aula4 <> negb_involutive thm
+R1752:1766 aula4 <> negb_involutive thm

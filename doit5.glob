@@ -1,0 +1,158 @@
+DIGEST 06be6f5b42ce67e8ef70d1c64f1641db
+Fdoit5
+R15:19 aula3 <> <> lib
+R21:25 aula4 <> <> lib
+R27:31 aula5 <> <> lib
+R33:37 aula6 <> <> lib
+R39:43 aula7 <> <> lib
+def 255:262 <> nonzeros
+R267:273 aula7 <> natlist ind
+R278:284 aula7 <> natlist ind
+R295:295 doit5 <> l var
+R305:307 aula7 <> nil constr
+R312:314 aula7 <> nil constr
+R321:324 aula7 <> ::x_'::'_x not
+R363:370 doit5 <> nonzeros def
+R389:389 Coq.Init.Datatypes <> S constr
+R397:400 aula7 <> ::x_'::'_x not
+R401:408 doit5 <> nonzeros def
+def 473:485 <> test_nonzeros
+R514:516 Coq.Init.Logic <> :type_scope:x_'='_x not
+R490:497 doit5 <> nonzeros def
+R499:499 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R501:501 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R503:503 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R505:505 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R507:507 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R509:509 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R511:511 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R513:513 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R517:517 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R519:519 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R521:521 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R523:523 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+def 597:606 <> oddmembers
+R611:617 aula7 <> natlist ind
+R622:628 aula7 <> natlist ind
+R639:639 doit5 <> l var
+R649:651 aula7 <> nil constr
+R656:658 aula7 <> nil constr
+R664:667 aula7 <> ::x_'::'_x not
+R679:682 aula3 <> oddb def
+R704:708 Coq.Init.Datatypes <> false constr
+R713:722 doit5 <> oddmembers def
+R739:742 Coq.Init.Datatypes <> true constr
+R748:751 aula7 <> ::x_'::'_x not
+R752:761 doit5 <> oddmembers def
+def 838:852 <> test_oddmembers
+R883:885 Coq.Init.Logic <> :type_scope:x_'='_x not
+R857:866 doit5 <> oddmembers def
+R868:868 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R870:870 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R872:872 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R874:874 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R876:876 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R878:878 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R880:880 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R882:882 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R886:886 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R888:888 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R890:890 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+def 967:981 <> countoddmembers
+R986:992 aula7 <> natlist ind
+R997:999 Coq.Init.Datatypes <> nat ind
+R1005:1010 aula7 <> length def
+R1012:1021 doit5 <> oddmembers def
+R1023:1023 doit5 <> l var
+def 1068:1088 <> test_countoddmembers1
+R1122:1124 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1093:1107 doit5 <> countoddmembers def
+R1109:1109 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1111:1111 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1113:1113 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1115:1115 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1117:1117 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1119:1119 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1121:1121 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1142:1156 doit5 <> countoddmembers def
+def 1223:1243 <> test_countoddmembers2
+R1271:1273 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1248:1262 doit5 <> countoddmembers def
+R1264:1264 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1266:1266 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1268:1268 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R1270:1270 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+def 1340:1360 <> test_countoddmembers3
+R1384:1386 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1365:1379 doit5 <> countoddmembers def
+R1381:1383 aula7 <> nil constr
+def 2117:2125 <> alternate
+R2136:2142 aula7 <> natlist ind
+R2147:2153 aula7 <> natlist ind
+R2164:2165 doit5 <> l1 var
+R2174:2176 aula7 <> nil constr
+R2181:2182 doit5 <> l2 var
+R2187:2190 aula7 <> ::x_'::'_x not
+R2202:2203 doit5 <> l2 var
+R2223:2225 aula7 <> nil constr
+R2230:2231 doit5 <> l1 var
+R2248:2251 aula7 <> ::x_'::'_x not
+R2259:2262 aula7 <> ::x_'::'_x not
+R2265:2268 aula7 <> ::x_'::'_x not
+R2269:2277 doit5 <> alternate def
+def 2313:2327 <> test_alternate1
+R2357:2359 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2332:2340 doit5 <> alternate def
+R2350:2350 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2352:2352 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2354:2354 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2356:2356 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2342:2342 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2344:2344 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2346:2346 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2348:2348 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2360:2360 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2362:2362 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2364:2364 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2366:2366 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2368:2368 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2370:2370 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2372:2372 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+def 2416:2430 <> test_alternate2
+R2456:2458 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2435:2443 doit5 <> alternate def
+R2449:2449 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2451:2451 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2453:2453 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2455:2455 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2445:2445 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2447:2447 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2459:2459 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2461:2461 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2463:2463 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2465:2465 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2467:2467 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+def 2511:2525 <> test_alternate3
+R2551:2553 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2530:2538 doit5 <> alternate def
+R2548:2548 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2550:2550 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2540:2540 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2542:2542 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2544:2544 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2546:2546 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2554:2554 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2556:2556 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2558:2558 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2560:2560 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2562:2562 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+def 2606:2620 <> test_alternate4
+R2645:2647 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2625:2633 doit5 <> alternate def
+R2638:2638 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2641:2641 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2644:2644 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2635:2636 aula7 <> ::'['_']' not
+R2648:2648 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2651:2651 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
+R2654:2654 aula7 <> ::'['_x_';'_'..'_';'_x_']' not
